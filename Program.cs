@@ -5,7 +5,8 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Functional Programming.");
-            FlipCoin.calculatepercentage();
+            //FlipCoin.calculatepercentage();
+            LeapYear.slnleapyear();
         }
     }
 }
