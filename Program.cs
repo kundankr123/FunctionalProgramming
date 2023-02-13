@@ -8,7 +8,8 @@
             //FlipCoin.calculatepercentage();
             //LeapYear.slnleapyear();
             //PowerOfTwo.slnpoweroftwo();
-            HarmonicNumber.nthharmonic();
+            //HarmonicNumber.nthharmonic();
+            Factors.primefactorization();
         }
     }
 }
