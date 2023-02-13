@@ -6,7 +6,8 @@
         {
             Console.WriteLine("Welcome to Functional Programming.");
             //FlipCoin.calculatepercentage();
-            LeapYear.slnleapyear();
+            //LeapYear.slnleapyear();
+            PowerOfTwo.slnpoweroftwo();
         }
     }
 }
