@@ -10,7 +10,8 @@
             //PowerOfTwo.slnpoweroftwo();
             //HarmonicNumber.nthharmonic();
             //Factors.primefactorization();
-            QuotientRemainder.FindQuotientAndRemainder();
+            //QuotientRemainder.FindQuotientAndRemainder();
+            Swap.SwapingNumbers();
         }
     }
 }
