@@ -9,7 +9,8 @@
             //LeapYear.slnleapyear();
             //PowerOfTwo.slnpoweroftwo();
             //HarmonicNumber.nthharmonic();
-            Factors.primefactorization();
+            //Factors.primefactorization();
+            QuotientRemainder.FindQuotientAndRemainder();
         }
     }
 }
