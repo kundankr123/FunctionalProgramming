@@ -11,7 +11,8 @@
             //HarmonicNumber.nthharmonic();
             //Factors.primefactorization();
             //QuotientRemainder.FindQuotientAndRemainder();
-            Swap.SwapingNumbers();
+            //Swap.SwapingNumbers();
+            EvenOdd.FindEvenAndOdd();        
         }
     }
 }
